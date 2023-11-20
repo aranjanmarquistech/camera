@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">camera</string>
+    <string name="latitude_format">Latitude: %f</string>
+    <string name="longitude_format">Longitude: %f</string>
+    <string name="longitude">Longitude\n</string>
+    <string name="latitude">Latitude\n</string>
+    <string name="other">other\n</string>
+</resources>
